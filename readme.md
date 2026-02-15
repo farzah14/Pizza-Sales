@@ -69,6 +69,6 @@ PIZZA SALES/
 - Pizza Store Employees Team.
 
 ## 📊 Dashboards and Insights
-The dashboard provides a summary of pizza sales for the entire year of 2015. It also shows the types of pizza based on category and size.
+This dashboard provides a summary of pizza sales for the entire year of 2015. It also displays pizza types by category and size, visualized based on revenue, orders, and quantity sold.
 
 ***Insights : XXL-sized pizzas should be removed from the menu because customers are not interested in purchasing such large pizzas for several reasons, one of which is the high price.***
