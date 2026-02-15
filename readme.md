@@ -27,7 +27,7 @@ A year's worth of sales data from a fictional pizza place, including the date an
 ## 📊 Dashboards and Insights
 The dashboard provides a summary of pizza sales for the entire year of 2015. It also shows the types of pizza based on category and size.
 
-Insights: XXL-sized pizzas should be removed from the menu because customers are not interested in purchasing such large pizzas for several reasons, one of which is the high price.
+**Insights: XXL-sized pizzas should be removed from the menu because customers are not interested in purchasing such large pizzas for several reasons, one of which is the high price.**
 
 ## 👨‍💻 Technology Stack
 ### Analytics and Visualization
